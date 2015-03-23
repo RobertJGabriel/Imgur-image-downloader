@@ -8,14 +8,14 @@ A little php code to download pictures off any website and save it locally.
 Upcoming Features
 -----------------
 
--  Ui show which images :)
+-  Ui show which images are downloaded :)
 
 
 Built by a dyslexic programmer with love <3
 
 Install
 --------------
-
+- You will need xampp first :)
 - Download the files into your htdocs folder.
 - Create a folder called downloads and it have write and create premissons (http://stackoverflow.com/questions/9046977/xampp-permissions-on-mac-os-x)
 - Open the the webpage http://localhost/Imgur-image-downloader/
