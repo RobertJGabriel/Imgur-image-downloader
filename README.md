@@ -16,8 +16,8 @@ Built by a dyslexic programmer with love <3
 Install
 --------------
 
-- Download the files into your hdocs folder.
-- Create a folder called downloads.
+- Download the files into your htdocs folder.
+- Create a folder called downloads and it have write and create premissons (http://stackoverflow.com/questions/9046977/xampp-permissions-on-mac-os-x)
 - Open the the webpage http://localhost/Imgur-image-downloader/
 - The script will run and download all images that are on the page you request.
 
